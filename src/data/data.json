@@ -1,0 +1,180 @@
+[
+    {
+        "name": "hyphen",
+        "data": [
+            "hyphen.case",
+            "hyphen.sc1",
+            "hyphen.case.ss01",
+            "hyphen.case.ss02",
+            "hyphen.sc1.ss01",
+            "hyphen.sc1.ss02"
+        ]
+    },
+    {
+        "name": "character",
+        "data": [
+            "A",
+            "E",
+            "I",
+            "O",
+            "U",
+            "Y",
+            "i",
+            "Ư,Ơ",
+            "D,d"
+        ]
+    },
+    {
+        "name": "grave",
+        "data": [
+            "grave",
+            "gravecomb",
+            "grave.ss01",
+            "grave.ss02",
+            "gravecomb.ss01",
+            "gravecomb.ss02"
+        ]
+    },
+    {
+        "name": "acute",
+        "data": [
+            "acute",
+            "acutecomb",
+            "acute.ss01",
+            "acute.ss02",
+            "acutecomb.ss01",
+            "acutecomb.ss02"
+        ]
+    },
+    {
+        "name": "tilde",
+        "data": [
+            "tilde",
+            "tildecomb",
+            "tilde.ss01",
+            "tilde.ss02",
+            "tildecomb.ss01",
+            "tildecomb.ss02"
+        ]
+    },
+    {
+        "name": "hoi",
+        "data": [
+            "hookabovecomb.case",
+            "hookabovecomb",
+            "hookabovecomb.case.ss01",
+            "hookabovecomb.case.ss02",
+            "hookabovecomb.ss01",
+            "hookabovecomb.ss02"
+        ]
+    },
+    {
+        "name": "grave",
+        "data": [
+            "grave",
+            "gravecomb",
+            "grave.ss01",
+            "grave.ss02",
+            "gravecomb.ss01",
+            "gravecomb.ss02"
+        ]
+    },
+    {
+        "name": "dotbelow",
+        "data": [
+            "dotbelowcomb.case",
+            "dotbelowcomb",
+            "dotbelowcomb.case.ss01",
+            "dotbelowcomb.case.ss02",
+            "dotbelowcomb.ss01",
+            "dotbelowcomb.ss02"
+        ]
+    },
+    {
+        "name": "circumflex",
+        "data": [
+            "circumflex",
+            "circumflexcomb",
+            "circumflex.ss01",
+            "circumflex.ss02",
+            "circumflexcomb.ss01",
+            "circumflexcomb.ss02"
+        ]
+    },
+    {
+        "name": "breve",
+        "data": [
+            "breve",
+            "brevecomb",
+            "breve.ss01",
+            "breve.ss02",
+            "brevecomb.ss01",
+            "brevecomb.ss02"
+        ]
+    },
+    {
+        "name": "horn",
+        "data": [
+            "horn",
+            "horncomb",
+            "horn.ss01",
+            "horn.ss01",
+            "horncomb.ss01",
+            "horncomb.ss02",
+            "horncomb.ss03"
+        ]
+    },
+    {
+        "name": "dotlessi",
+        "data": [
+            "dotlessi",
+            "dotlessi.ss01",
+            "dotlessi.ss02",
+            "dotlessi.ss03",
+            "dotlessi.ss04",
+            "dotlessi.ss05"
+        ]
+    },
+    {
+        "name": "features",
+        "data": [
+            "ss01",
+            "ss02",
+            "ss03",
+            "ss04",
+            "ss05",
+            "ss06",
+            "ss07",
+            "ss08",
+            "ss09",
+            "ss10"
+        ]
+    },
+    {
+        "name": "makeHorn",
+        "data": [
+            "Cả Hai",
+            "Chữ Hoa",
+            "Chữ Thường",
+            "Không Tạo"
+        ]
+    },
+    {
+        "name": "dotlessi",
+        "data": [
+            "dotlessi",
+            "dotlessi.ss01",
+            "dotlessi.ss02",
+            "dotlessi.ss03",
+            "dotlessi.ss04",
+            "dotlessi.ss05"
+        ]
+    },
+    {
+        "name": "createDotlessi",
+        "data": [
+            "Tạo",
+            "Không Tạo"
+        ]
+    }
+]
